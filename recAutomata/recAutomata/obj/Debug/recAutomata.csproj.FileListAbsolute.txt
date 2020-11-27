@@ -1,0 +1,7 @@
+C:\Users\Feri\source\repos\recAutomata\recAutomata\bin\Debug\recAutomata.exe.config
+C:\Users\Feri\source\repos\recAutomata\recAutomata\bin\Debug\recAutomata.exe
+C:\Users\Feri\source\repos\recAutomata\recAutomata\bin\Debug\recAutomata.pdb
+C:\Users\Feri\source\repos\recAutomata\recAutomata\obj\Debug\recAutomata.csprojAssemblyReference.cache
+C:\Users\Feri\source\repos\recAutomata\recAutomata\obj\Debug\recAutomata.csproj.CoreCompileInputs.cache
+C:\Users\Feri\source\repos\recAutomata\recAutomata\obj\Debug\recAutomata.exe
+C:\Users\Feri\source\repos\recAutomata\recAutomata\obj\Debug\recAutomata.pdb

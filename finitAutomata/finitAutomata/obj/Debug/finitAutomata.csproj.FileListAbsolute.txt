@@ -1,0 +1,7 @@
+C:\Users\Feri\source\repos\finitAutomata\finitAutomata\obj\Debug\finitAutomata.csprojAssemblyReference.cache
+C:\Users\Feri\source\repos\finitAutomata\finitAutomata\obj\Debug\finitAutomata.csproj.CoreCompileInputs.cache
+C:\Users\Feri\source\repos\finitAutomata\finitAutomata\bin\Debug\finitAutomata.exe.config
+C:\Users\Feri\source\repos\finitAutomata\finitAutomata\bin\Debug\finitAutomata.exe
+C:\Users\Feri\source\repos\finitAutomata\finitAutomata\bin\Debug\finitAutomata.pdb
+C:\Users\Feri\source\repos\finitAutomata\finitAutomata\obj\Debug\finitAutomata.exe
+C:\Users\Feri\source\repos\finitAutomata\finitAutomata\obj\Debug\finitAutomata.pdb
